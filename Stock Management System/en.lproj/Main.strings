@@ -1,0 +1,159 @@
+
+/* Class = "UIButton"; configuration.title = "Rapor"; ObjectID = "2Ff-dM-FR0"; */
+"2Ff-dM-FR0.configuration.title" = "Report";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Ff-dM-FR0"; */
+"2Ff-dM-FR0.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Stok Durum"; ObjectID = "5hb-JO-9Px"; */
+"5hb-JO-9Px.configuration.title" = "Stock Status";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5hb-JO-9Px"; */
+"5hb-JO-9Px.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Ürün Kontrol Et"; ObjectID = "5qh-Wq-NlH"; */
+"5qh-Wq-NlH.configuration.title" = "Check Product";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5qh-Wq-NlH"; */
+"5qh-Wq-NlH.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "Satış yap"; ObjectID = "6u9-i5-FJk"; */
+"6u9-i5-FJk.title" = "Sell";
+
+/* Class = "UITextField"; placeholder = "enter your password"; ObjectID = "8kD-dF-9qy"; */
+"8kD-dF-9qy.placeholder" = "enter your password";
+
+/* Class = "UITabBarItem"; title = "Ana Sayfa"; ObjectID = "9AL-gb-1c6"; */
+"9AL-gb-1c6.title" = "Main Screen";
+
+/* Class = "UILabel"; text = "Ürün Adeti: 350"; ObjectID = "9II-QW-jLt"; */
+"9II-QW-jLt.text" = "Product Quantity: 350";
+
+/* Class = "UITextField"; placeholder = "Ürün  Satış Fiyatı"; ObjectID = "AQi-E8-KaW"; */
+"AQi-E8-KaW.placeholder" = "Selling Price";
+
+/* Class = "UITextField"; placeholder = "enter your email address"; ObjectID = "BgL-78-h0k"; */
+"BgL-78-h0k.placeholder" = "enter your email address";
+
+/* Class = "UILabel"; text = "Toplam Satış Fiyatı: 0₺"; ObjectID = "DWQ-KE-0Fp"; */
+"DWQ-KE-0Fp.text" = "Total Selling Price: 0₺";
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "G2S-iu-zN7"; */
+"G2S-iu-zN7.configuration.title" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G2S-iu-zN7"; */
+"G2S-iu-zN7.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Ürün Alış Fiyatı"; ObjectID = "GEy-wb-Axr"; */
+"GEy-wb-Axr.placeholder" = "Product Buying Price";
+
+/* Class = "UITextField"; placeholder = "Satılacak Adet"; ObjectID = "Icy-dd-vNw"; */
+"Icy-dd-vNw.placeholder" = "Sold Quantity";
+
+/* Class = "UIButton"; configuration.title = "Stok Ekle"; ObjectID = "JSO-E3-fTc"; */
+"JSO-E3-fTc.configuration.title" = "Add Stock";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JSO-E3-fTc"; */
+"JSO-E3-fTc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Son Ekleme Zamanı: 02/10/2024"; ObjectID = "KJ7-Cf-l86"; */
+"KJ7-Cf-l86.text" = "Last Add Time: 02/10/2024";
+
+/* Class = "UILabel"; text = "Son Kullanma Tarihi: 01/06/2026"; ObjectID = "L3x-KS-RxD"; */
+"L3x-KS-RxD.text" = "Expiry Date: 01/06/2026";
+
+/* Class = "UIViewController"; title = "Ana Sayfa"; ObjectID = "M1x-Dh-Krn"; */
+"M1x-Dh-Krn.title" = "Main Screen";
+
+/* Class = "UITextField"; placeholder = "Ürün Adeti"; ObjectID = "Nyk-Ab-CsV"; */
+"Nyk-Ab-CsV.placeholder" = "Product quantity";
+
+/* Class = "UILabel"; text = "Lütfen Tarih Aralığı Seçiniz"; ObjectID = "OfM-LD-Ydu"; */
+"OfM-LD-Ydu.text" = "Please Select Date Range";
+
+/* Class = "UIButton"; configuration.title = "Satış Yap"; ObjectID = "ToV-xf-Hyp"; */
+"ToV-xf-Hyp.configuration.title" = "Make a Sale";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ToV-xf-Hyp"; */
+"ToV-xf-Hyp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Mehmet TIRPAN"; ObjectID = "VaY-Wp-SuL"; */
+"VaY-Wp-SuL.text" = "Mehmet TIRPAN";
+
+/* Class = "UIButton"; configuration.title = "Log In"; ObjectID = "Vcs-Kz-rO3"; */
+"Vcs-Kz-rO3.configuration.title" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Vcs-Kz-rO3"; */
+"Vcs-Kz-rO3.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Stok Ekle"; ObjectID = "WsE-bj-TlX"; */
+"WsE-bj-TlX.configuration.title" = "Add Stock";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WsE-bj-TlX"; */
+"WsE-bj-TlX.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "Rapor"; ObjectID = "XM1-py-zrT"; */
+"XM1-py-zrT.title" = "Report";
+
+/* Class = "UILabel"; text = "Designed BY Mehmet TIRPAN"; ObjectID = "YB1-NG-65O"; */
+"YB1-NG-65O.text" = "Designed BY Mehmet TIRPAN";
+
+/* Class = "UIViewController"; title = "Stok Ekle"; ObjectID = "ZwO-He-e5I"; */
+"ZwO-He-e5I.title" = "Add Stock";
+
+/* Class = "UILabel"; text = "Ürün Son Kullanma Tarihini Giriniz"; ObjectID = "bhQ-iK-vFE"; */
+"bhQ-iK-vFE.text" = "Enter Product Expiry Date";
+
+/* Class = "UILabel"; text = "Ürün Adı (Calcicaf)"; ObjectID = "dch-Wz-xdr"; */
+"dch-Wz-xdr.text" = "Ürün Adı (Calcicaf)";
+
+/* Class = "UILabel"; text = "Hoş Geldiniz"; ObjectID = "e6V-yn-yp5"; */
+"e6V-yn-yp5.text" = "Welcome";
+
+/* Class = "UILabel"; text = "Ürün Alış Fiyatı: 180₺"; ObjectID = "eci-zG-ijP"; */
+"eci-zG-ijP.text" = "Product Purchase Price: 180₺";
+
+/* Class = "UILabel"; text = "Stok Adeti:"; ObjectID = "gLS-xG-nWE"; */
+"gLS-xG-nWE.text" = "Stock quantity:";
+
+/* Class = "UIButton"; configuration.title = "Satış Yap"; ObjectID = "gWw-yK-z7B"; */
+"gWw-yK-z7B.configuration.title" = "Make a Sale";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gWw-yK-z7B"; */
+"gWw-yK-z7B.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Toplam Adet: 470"; ObjectID = "gki-W7-BUs"; */
+"gki-W7-BUs.text" = "Total Quantity: 470";
+
+/* Class = "UILabel"; text = "Stock\nManagement\nSystem"; ObjectID = "kn4-iN-P8n"; */
+"kn4-iN-P8n.text" = "Stock\nManagement\nSystem";
+
+/* Class = "UILabel"; text = "Eklenecek Olan Ürün Bilgilerini Giriniz"; ObjectID = "l8g-C7-lv1"; */
+"l8g-C7-lv1.text" = "Enter the product information to be added";
+
+/* Class = "UILabel"; text = "Toplam Kar: 0000₺"; ObjectID = "n1A-Bv-8Ef"; */
+"n1A-Bv-8Ef.text" = "Total Profit: 0000₺";
+
+/* Class = "UILabel"; text = "Satış Adeti: 120"; ObjectID = "nNx-Lc-yyG"; */
+"nNx-Lc-yyG.text" = "Number of Sales: 120";
+
+/* Class = "UITextField"; placeholder = "Ürün Adı"; ObjectID = "neL-RP-AVm"; */
+"neL-RP-AVm.placeholder" = "Product Name";
+
+/* Class = "UILabel"; text = "Developed and Designed BY Mehmet TIRPAN"; ObjectID = "qlK-nf-hO0"; */
+"qlK-nf-hO0.text" = "Developed and Designed BY Mehmet TIRPAN";
+
+/* Class = "UIButton"; configuration.title = "Çıkış Yap"; ObjectID = "rga-47-88j"; */
+"rga-47-88j.configuration.title" = "Log Out";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rga-47-88j"; */
+"rga-47-88j.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Satılacak Ürün Adı"; ObjectID = "s8Z-xk-TcJ"; */
+"s8Z-xk-TcJ.placeholder" = "Product Name to be sold";
+
+/* Class = "UILabel"; text = "Ürün Satış Fiyatı: 200₺"; ObjectID = "tc0-1K-Dpd"; */
+"tc0-1K-Dpd.text" = "Product Sale Price: 200₺";
+
+/* Class = "UILabel"; text = "Satış Yapılacak Olan Ürün Bilgilerini Giriniz"; ObjectID = "xpB-y1-xvZ"; */
+"xpB-y1-xvZ.text" = "Enter the product information to be sold";
